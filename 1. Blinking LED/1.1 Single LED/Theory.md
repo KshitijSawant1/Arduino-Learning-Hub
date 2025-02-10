@@ -61,5 +61,3 @@ void loop() {
 - The LED will **blink ON and OFF** every 1 second continuously.
 
 ---
-
-Let me know if you need any modifications before adding it to your test file! 🚀
