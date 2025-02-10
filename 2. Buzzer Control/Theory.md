@@ -1,4 +1,4 @@
-# **3️⃣ Buzzer Control with Arduino**
+# **2️⃣ Buzzer Control with Arduino**
 
 ## **Objective:**
 

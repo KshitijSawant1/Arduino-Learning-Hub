@@ -1,4 +1,4 @@
-# **4️⃣ Serial Monitor "Hello Arduino"**
+# **3️⃣ Serial Monitor "Hello Arduino"**
 
 ## **Objective:**
 

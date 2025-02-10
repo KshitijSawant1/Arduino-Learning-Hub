@@ -1,4 +1,4 @@
-# **2️⃣ Blinking Multiple LEDs (Up to 5 LEDs)**
+# **1️⃣.2️⃣ Blinking Multiple LEDs (Up to 5 LEDs)**
 ## **Objective:**  
 Learn how to control **multiple LEDs** using the `digitalWrite()` function and `delay()` in Arduino. This activity extends the basic blinking LED experiment to multiple LEDs.
 

@@ -2,7 +2,7 @@ Here’s a well-formatted version of your **Blinking LED (Single LED)** tutorial
 
 ---
 
-# **1️⃣ Blinking a Single LED**
+# **1️⃣.1️⃣ Blinking a Single LED**
 ## **Objective:**  
 Learn the basics of **digital output** using the `digitalWrite()` function and `delay()` in Arduino. This activity serves as an introduction to controlling an LED through programming.
 
