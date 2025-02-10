@@ -109,5 +109,3 @@ void loop() {
 🔹 Implement **multiple touch sensors** for advanced input handling.
 
 ---
-
-💡 **Next Activity:** Want to explore **distance measurement**? Let’s move on to **Ultrasonic Sensor Distance Measurement!** 🚀

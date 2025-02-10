@@ -134,5 +134,3 @@ void loop() {
 🔹 **Implement an Automatic Parking Sensor**.  
 
 ---
-
-💡 **Next Activity:** Want to control a **Servo Motor** using Arduino? Let’s move on to **Servo Motor Control!** 🚀

@@ -118,5 +118,3 @@ void loop() {
 🔹 **Control a ventilation fan** if gas levels exceed a critical threshold.  
 
 ---
-
-💡 **Next Activity:** Want to detect **distance using an Ultrasonic Sensor?** Let’s move on to **Ultrasonic Sensor Distance Measurement!** 🚀
