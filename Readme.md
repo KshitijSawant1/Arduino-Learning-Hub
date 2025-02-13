@@ -79,7 +79,7 @@ The repository is divided into different modules, each covering a fundamental co
 5. Observe the output and experiment with modifications.
 
 ## 📄 License
-This project is licensed under the **Academic Free License v3.0 (AFL-3.0)**.
+This project is licensed under the **MIT LICENSE**.
 
 ## 🤝 Contributions
 We welcome contributions! Feel free to submit pull requests for improvements or new experiments.
